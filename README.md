@@ -37,6 +37,23 @@ Get Hidden Files like git and etc...
   ls -a
 ```
 
+You can also view all hidden files
+
+```bash
+  ls .git
+```
+
+Create any file like .txt , .html etc...
+
+```bash
+  touch filename.txt
+```
+
+Delete any file 
+
+```bash
+  rm -rf filename.txt
+```
 
 ## Support
 
